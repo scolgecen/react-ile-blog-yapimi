@@ -1,0 +1,58 @@
+{
+  "bloglar": [
+    {
+      "id": "1",
+      "baslik": "Kullanıcı Odaklı Yazılım",
+      "kategoriler": [
+        "Yazılım",
+        "İçerik Yönetimi"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.",
+      "okunmaSuresi": "17 dakika"
+    },
+    {
+      "id": "2",
+      "baslik": "Web Sayfalarının Okunurluğunu Arttırma",
+      "kategoriler": [
+        "İçerik Yönetimi"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.",
+      "okunmaSuresi": "20 dakika"
+    },
+    {
+      "id": "3",
+      "baslik": "MObil Oyun Geliştirme Üzerine",
+      "kategoriler": [
+        "Yazılım",
+        "Donanım",
+        "Tasarım",
+        "Mobil",
+        "Oyun Geliştirme"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. ",
+      "okunmaSuresi": "45 dakika"
+    },
+    {
+      "baslik": "React & Next Js",
+      "kategoriler": [
+        "react js",
+        "next js"
+      ],
+      "icerik": "Merhaba bu dersimizde react js ve next js ile blog kodlamasını yapacağız",
+      "okunmaSuresi": "55 dakika",
+      "id": "Rmi7oCF"
+    },
+    {
+      "baslik": "Laravel ve React js kullanımı",
+      "kategoriler": [
+        "Laravel",
+        "React",
+        "Next",
+        "Mysql"
+      ],
+      "icerik": "Yaygın inancın tersine, Lorem Ipsum rastgele sözcüklerden oluşmaz. Kökleri M.Ö. 45 tarihinden bu yana klasik Latin edebiyatına kadar uzanan 2000 yıllık bir geçmişi vardır. Virginia'daki Hampden-Sydney College'dan Latince profesörü Richard McClintock, bir Lorem Ipsum pasajında geçen ve anlaşılması en güç sözcüklerden biri olan 'consectetur' sözcüğünün klasik edebiyattaki örneklerini incelediğinde kesin bir kaynağa ulaşmıştır. Lorm Ipsum, Çiçero tarafından M.Ö. 45 tarihinde kaleme alınan \"de Finibus Bonorum et Malorum\" (İyi ve Kötünün Uç Sınırları) eserinin 1.10.32 ve 1.10.33 sayılı bölümlerinden gelmektedir. Bu kitap, ahlak kuramı üzerine bir tezdir ve Rönesans döneminde çok popüler olmuştur. Lorem Ipsum pasajının ilk satırı olan \"Lorem ipsum dolor sit amet\" 1.10.32 sayılı bölümdeki bir satırdan gelmektedir.",
+      "okunmaSuresi": "102 dakika",
+      "id": "rpyWMCE"
+    }
+  ]
+}

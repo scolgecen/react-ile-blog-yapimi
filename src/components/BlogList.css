@@ -1,0 +1,82 @@
+.blog-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-gap: 30px;
+    max-width: 1300px;
+    margin: 40px auto;
+  }
+  .blog-list .card {
+    background: #fff;
+    color: #333;
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+    transition: all 0.4s ease;
+    position: relative;
+    text-align: left;
+    box-shadow: rgba(0, 0, 0, 120);
+  }
+
+  .blog-list .sure {
+   text-align:left;
+   margin-top: 5px;
+   font-size:10px;
+   color:#555!important;
+   font-style: italic;
+   margin-bottom: 40px!important;
+
+  }
+
+  .blog-list .icerik {
+    text-align:left;
+    margin-top: 5px;
+    font-size:10px;
+    color:#555!important;
+    
+    margin-bottom: 60px!important;
+    font-family: arial;
+ 
+   }
+  .blog-list .card:hover {
+    transform: scale(1.1);
+  }
+  .blog-list .card h3 {
+    color: #786fa6;
+    margin-bottom: 6px;
+  }
+  .blog-list .card p {
+    color: #778beb;
+    font-size: 0.9em;
+  }
+  .blog-list .card div {
+    color: #555;
+    font-size: 0.7em;
+    margin: 20px 0;
+    line-height: 1.5em;
+  }
+  .blog-list .card a {
+    color: #786fa6;
+    text-decoration: none;
+    display: block;
+    background: #e2e2e2;
+    font-size: 0.9em;
+    width: 150px;
+    text-align: center;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 20px auto 0;
+  }
+
+  .blog-list .card .btn:hover {
+   background-color: #786fa6;
+   color: white;
+  }
+.blog-list .card.dark{
+  background: rgb(231, 127, 103);
+ 
+}
+.blog-list .card.dark p,
+.blog-list .card.dark h3,
+.blog-list .card.dark div {
+  color:white!important
+}
